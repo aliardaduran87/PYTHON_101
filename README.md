@@ -1,4 +1,4 @@
-🏛️ Projenin Doğuşu ve Amacı
+🏛️ Projenin Doğuşu ve Amacı :
 Bu çalışma, yaklaşık 100 saati aşkın bir tefekkür ve inşa sürecinin ürünü olup, 9470 satır ve 102 özgün örnekten oluşan 14 Bablık bir külliyattır. Projenin %60'ı manuel kodlama, %40'ı ise yapay zeka desteğiyle harmanlanmış; farklı kaynaklardan süzülen ilim, tek bir nizam altında toplanmıştır.
 
 Neden Bu Proje?
